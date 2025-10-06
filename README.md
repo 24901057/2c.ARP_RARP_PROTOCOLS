@@ -93,4 +93,4 @@ Server output:
 <img width="748" height="285" alt="image" src="https://github.com/user-attachments/assets/ce5ade4e-c825-49a6-a860-aec231bd28ba" />
 
 ## RESULT
-Thus, the python program for simulating ARP protocols using TCP was successfully executed.
+Thus, the python program for simulating ARP/RARP protocols using TCP was successfully executed.
